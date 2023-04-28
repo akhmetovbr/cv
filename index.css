@@ -1,0 +1,32 @@
+
+#box {
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: black;
+}
+#box1 ul {
+
+    text-align: left;
+    font-family:cursive;
+    color: black ;
+}
+ul {
+    padding: 0;
+    margin-left: 80px;
+    color:black;
+}
+a {
+    margin-right: 0px;
+    margin-left: 10px;
+    margin-bottom: auto;
+}
+
+.text {
+    text-indent: 50px;
+    text-align: left;
+    color: black;
+    font-size: large;
+}
+h1 {
+    color: black;
+}
